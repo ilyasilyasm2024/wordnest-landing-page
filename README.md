@@ -1,6 +1,6 @@
 # WordNest landing page
 
-Static site (no build step on the server): `index.html` (English), `fr/`, `ar/` (right-to-left), `style.css`, `assets/`, `media/` (video posters). The videos are on YouTube (ids in `VIDEOS` in the script); the player loads only when the visitor taps play.(video posters).
+Static site (no build step on the server): `index.html` (English), `fr/`, `de/`, `ar/` (right-to-left), `style.css`, `assets/`, `media/` (video posters). The videos are on YouTube (ids in `VIDEOS` in the script); the player loads only when the visitor taps play.
 
 The explainer videos are on YouTube (ids in `VIDEOS` in the script); the player loads only when the visitor taps play.
 
@@ -9,5 +9,3 @@ The explainer videos are on YouTube (ids in `VIDEOS` in the script); the player 
 - If the address is different (own domain, other repo name), change `BASE` in the script and regenerate.
 - The privacy policy stays where it is (`wordnest-privacy` repo); the app and Play Console link to it.
 - The Google Play button carries `referrer=utm_source=website&utm_content=<lang>` so Play Console shows installs that came from the site.
-# wordnest-landing-page
-# wordnest-landing-page
